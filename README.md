@@ -1,4 +1,4 @@
-# Photometry with AIJ
+# Photometry dengan `AIJ`
 ---
 
-Differential photometry menggunakan AstroImageJ (AIJ). Dibuat sebagai bagian materi SanLat Imah Noong 17 Februari 2019
+_Differential photometry_ menggunakan `AstroImageJ (AIJ)`. Dibuat sebagai bagian materi SanLat Imah Noong 17 Februari 2019.
