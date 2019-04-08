@@ -1,7 +1,8 @@
 # Photometry dengan `AIJ`
 ---
 
-_Differential photometry_ menggunakan `AstroImageJ (AIJ)`
+_Differential photometry_ menggunakan `AstroImageJ (AIJ)`.
+
 Materi:
 - _Setting_ awal `AIJ`
 - reduksi data
